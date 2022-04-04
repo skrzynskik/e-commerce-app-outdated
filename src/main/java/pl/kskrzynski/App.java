@@ -1,11 +1,11 @@
-package pl.kciesla;
+package pl.kskrzynski;
 
 
 import org.springframework.boot.SpringApplication;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
-import pl.kciesla.productcatalog.ProductCatalog;
+import pl.kskrzynski.productcatalog.ProductCatalog;
 
 import java.math.BigDecimal;
 

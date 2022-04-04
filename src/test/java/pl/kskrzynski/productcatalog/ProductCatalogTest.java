@@ -1,4 +1,4 @@
-package pl.kciesla.productcatalog;
+package pl.kskrzynski.productcatalog;
 
 import org.junit.jupiter.api.Test;
 
